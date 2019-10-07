@@ -1,5 +1,5 @@
-# ITproConf-Grafana presentation
+# ITproConf: SCOM & Grafana presentation
 
-clone
+git clone https://github.com/masyanru/ITproConf-Grafana.git
 
 start index.html
